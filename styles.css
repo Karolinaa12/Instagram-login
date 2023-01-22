@@ -1,0 +1,45 @@
+body {
+  display: block;
+  text-align: center;
+  background-color: #fafafa;
+}
+
+img {
+  width: 180px;
+  margin-bottom: 30px;
+}
+
+input {
+  width: 250px;
+  margin: 2px;
+  padding: 10px 5px;
+  font-size: 12px;
+  border: solid 0.5px rgba(128, 128, 128, 0.3);
+  border-radius: 2px;
+  background-color: #fafafa;
+}
+
+button {
+  width: 260px;
+  margin: 10px 0;
+  padding: 8px;
+  border-radius: 8px;
+  border: none;
+  color: white;
+  background-color: #4db5f9;
+}
+
+hr {
+  border: solid 0.1px rgba(128, 128, 128, 0.3);
+}
+
+.login-container {
+  background-color: #ffff;
+  display: block;
+  text-align: center;
+  margin: 50px auto;
+  padding: 50px 20px;
+  border: solid 0.5px rgba(128, 128, 128, 0.3);
+  border-radius: 2px;
+  width: 300px;
+}
